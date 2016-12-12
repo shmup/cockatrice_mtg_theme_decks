@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Prismatic Black Agro</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Black Knight"/>
+        <card number="4" price="0" name="Fallen Askari"/>
+        <card number="4" price="0" name="Knight of Stromgald"/>
+        <card number="4" price="0" name="Man-o'-War"/>
+        <card number="1" price="0" name="Necratog"/>
+        <card number="4" price="0" name="Nekrataal"/>
+        <card number="2" price="0" name="Shadow Guildmage"/>
+        <card number="2" price="0" name="Uktabi Orangutan"/>
+        <card number="4" price="0" name="Contagion"/>
+        <card number="4" price="0" name="Incinerate"/>
+        <card number="4" price="0" name="Choking Sands"/>
+        <card number="2" price="0" name="Earthquake"/>
+        <card number="3" price="0" name="City of Brass"/>
+        <card number="3" price="0" name="Gemstone Mine"/>
+        <card number="2" price="0" name="Sulfurous Springs"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Underground River"/>
+        <card number="3" price="0" name="Undiscovered Paradise"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Disenchant"/>
+        <card number="2" price="0" name="Dystopia"/>
+        <card number="2" price="0" name="Ebony Charm"/>
+        <card number="1" price="0" name="Exile"/>
+        <card number="2" price="0" name="Forsaken Wastes"/>
+        <card number="1" price="0" name="Honorable Passage"/>
+        <card number="2" price="0" name="Hydroblast"/>
+        <card number="3" price="0" name="Pyroblast"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red-Blue Agro Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Cloud Elemental"/>
+        <card number="4" price="0" name="Man-o'-War"/>
+        <card number="4" price="0" name="Ophidian"/>
+        <card number="3" price="0" name="Suq'ata Lancer"/>
+        <card number="1" price="0" name="Wildfire Emissary"/>
+        <card number="2" price="0" name="Frenetic Efreet"/>
+        <card number="2" price="0" name="Abduction"/>
+        <card number="2" price="0" name="Disrupt"/>
+        <card number="4" price="0" name="Counterspell"/>
+        <card number="4" price="0" name="Force of Will"/>
+        <card number="4" price="0" name="Incinerate"/>
+        <card number="2" price="0" name="Pyrokinesis"/>
+        <card number="1" price="0" name="Disintegrate"/>
+        <card number="3" price="0" name="Mind Stone"/>
+        <card number="10" price="0" name="Island"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="2" price="0" name="City of Brass"/>
+        <card number="2" price="0" name="Undiscovered Paradise"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Phyrexian Furnace"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Serrated Arrows"/>
+        <card number="4" price="0" name="Knight of the Mists"/>
+        <card number="1" price="0" name="Hydroblast"/>
+        <card number="1" price="0" name="Dissipate"/>
+        <card number="2" price="0" name="Pyroblast"/>
+        <card number="3" price="0" name="Pillage"/>
+        <card number="1" price="0" name="Pyrokinesis"/>
+    </zone>
+</cockatrice_deck>

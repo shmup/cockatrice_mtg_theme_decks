@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White-Blue-Green Wake</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Mirari"/>
+        <card number="3" price="0" name="Compulsion"/>
+        <card number="3" price="0" name="Mirari's Wake"/>
+        <card number="1" price="0" name="Circular Logic"/>
+        <card number="3" price="0" name="Cunning Wish"/>
+        <card number="4" price="0" name="Mana Leak"/>
+        <card number="3" price="0" name="Moment's Peace"/>
+        <card number="3" price="0" name="Renewed Faith"/>
+        <card number="2" price="0" name="Vengeful Dreams"/>
+        <card number="2" price="0" name="Decree of Justice"/>
+        <card number="4" price="0" name="Deep Analysis"/>
+        <card number="4" price="0" name="Wrath of God"/>
+        <card number="2" price="0" name="Elfhame Palace"/>
+        <card number="2" price="0" name="Flooded Strand"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="7" price="0" name="Island"/>
+        <card number="4" price="0" name="Krosan Verge"/>
+        <card number="4" price="0" name="Plains"/>
+        <card number="4" price="0" name="Skycloud Expanse"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Anurid Brushhopper"/>
+        <card number="1" price="0" name="Circular Logic"/>
+        <card number="2" price="0" name="Exalted Angel"/>
+        <card number="1" price="0" name="Hunting Pack"/>
+        <card number="1" price="0" name="Krosan Reclamation"/>
+        <card number="1" price="0" name="Ray of Distortion"/>
+        <card number="3" price="0" name="Ray of Revelation"/>
+        <card number="1" price="0" name="Renewed Faith"/>
+        <card number="1" price="0" name="Vengeful Dreams"/>
+        <card number="1" price="0" name="Wing Shards"/>
+    </zone>
+</cockatrice_deck>

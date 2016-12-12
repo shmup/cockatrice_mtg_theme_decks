@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green-White Astral Slide</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Viridian Shaman"/>
+        <card number="4" price="0" name="Eternal Witness"/>
+        <card number="4" price="0" name="Eternal Dragon"/>
+        <card number="4" price="0" name="Astral Slide"/>
+        <card number="4" price="0" name="Renewed Faith"/>
+        <card number="2" price="0" name="Wing Shards"/>
+        <card number="2" price="0" name="Akroma's Vengeance"/>
+        <card number="2" price="0" name="Decree of Justice"/>
+        <card number="1" price="0" name="Plow Under"/>
+        <card number="4" price="0" name="Rampant Growth"/>
+        <card number="4" price="0" name="Wrath of God"/>
+        <card number="7" price="0" name="Forest"/>
+        <card number="6" price="0" name="Plains"/>
+        <card number="4" price="0" name="Secluded Steppe"/>
+        <card number="4" price="0" name="Tranquil Thicket"/>
+        <card number="4" price="0" name="Windswept Heath"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Oxidize"/>
+        <card number="2" price="0" name="Rude Awakening"/>
+        <card number="3" price="0" name="Scrabbling Claws"/>
+        <card number="3" price="0" name="Circle of Protection: Red"/>
+        <card number="3" price="0" name="Plow Under"/>
+    </zone>
+</cockatrice_deck>
